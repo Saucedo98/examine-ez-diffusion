@@ -30,10 +30,10 @@ The article from which the data used in this project originates.
 ![Slide 10](images_talk/slide_10.png)
 
 ---
-![Slide 11](images_talk/slide_11.png)
+![Slide 11](images_talk/Slide_11.png)
 
 ---
-![Slide 12](images_talk/slide_12.png)
+![Slide 12](images_talk/Slide_12.png)
 
 ---
 
